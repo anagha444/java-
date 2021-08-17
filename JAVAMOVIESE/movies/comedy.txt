@@ -1,0 +1,10 @@
+MOVIES
+Title:Shimla Mirchi 
+ Runtime:2hr 
+ whereToWatch:https://www.netflix.com/in/title/81078032%22
+Title: Yes Day
+ Runtime:2hr 
+ whereToWatch:https://www.netflix.com/in/title/81011712%22
+Title:Murder mistery
+ Runtime::2hr 
+ whereToWatch:https://www.netflix.com/in/title/80242619%22
